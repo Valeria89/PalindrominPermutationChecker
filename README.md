@@ -19,5 +19,5 @@ The project includes a class called `StringAnalyzer` that is responsible for che
 
 ## Run the tests
 
-The class can be tested using the test called `PalindromicPermutationsTest`. The class has as an input a "class of inputs" for testing the correctness of the algorithm (the inputs are devided as `input` and `expectedValue` in a csv file).
+The class can be tested using the test called `PalindromicPermutationsTest`. The class has as an input a "class of inputs" for testing the correctness of the algorithm (the inputs are devided as `Input` and `ExpectedResult` in a csv file).
 
