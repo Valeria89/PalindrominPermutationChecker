@@ -31,3 +31,30 @@ Input,ExpectedResult
 ". potspot. Hello? ","true"
 "hannah is a beautiful girl", "false"
 "####","true"
+"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab", "true"
+"aaaaaaaa 
+aaaaaaaa
+aaaaaaaa", "true"
+"aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+aVeryLongString
+verylong", "false"

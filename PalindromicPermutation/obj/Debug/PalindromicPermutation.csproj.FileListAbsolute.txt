@@ -8,6 +8,7 @@ C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\Palindromi
 C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\obj\Debug\PalindromicPermutation.csprojResolveAssemblyReference.cache
 C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\obj\Debug\PalindromicPermutation.csproj.CoreCompileInputs.cache
 C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\obj\Debug\PalindromicPermutation.dll
 C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\obj\Debug\PalindromicPermutation.pdb

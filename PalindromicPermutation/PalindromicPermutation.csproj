@@ -50,7 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="StringAnalyzer.cs" />
-    <Compile Include="UnitTestForPalindromicPermutations.cs" />
+    <Compile Include="PalindromicPermutationsTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
