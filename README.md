@@ -12,10 +12,10 @@ The project includes a class called `StringAnalyzer` that is responsible for che
 
 ### Assumptions
 
-1 - The function accepts input as a String value;
-2 - A sentence it's a string terminating with a `.` in the end;
-3 - The input string can be manipulated in terms of char upper to lower case (every upper case char will be transformed into lower case)
-4 - The input string is going to be trimmed so no spaces are going to be considered.
+1. The function accepts input as a String value;
+2. A sentence it's a string terminating with a `.` in the end;
+3. The input string can be manipulated in terms of char upper to lower case (every upper case char will be transformed into lower case)
+4. The input string is going to be trimmed so no spaces are going to be considered.
 
 ## Run the tests
 
