@@ -1,0 +1,13 @@
+C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\bin\Debug\Inputs.csv
+C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\bin\Debug\PalindromicPermutation.dll
+C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\bin\Debug\PalindromicPermutation.pdb
+C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\obj\Debug\PalindromicPermutation.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\obj\Debug\PalindromicPermutation.dll
+C:\Users\Valeria\Desktop\Esercizi\VitrueHealth\PalindromicPermutation\PalindromicPermutation\obj\Debug\PalindromicPermutation.pdb
