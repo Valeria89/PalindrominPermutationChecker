@@ -30,7 +30,7 @@ namespace PalindromicPermutation
                         return true;
                     }
 
-                    Dictionary<string, int> occurencesOfChar = CountOccurrencesOfChar(str);
+                    Dictionary<char, int> occurencesOfChar = CountOccurrencesOfChar(str);
                     if (IsPalindrome(occurencesOfChar, str.Length))
                     {
                         return true;
@@ -47,26 +47,24 @@ namespace PalindromicPermutation
         /// </summary>
         /// <param name="input">input string</param>
         /// <returns>a set of characters and their occurences</returns>
-        private static Dictionary<string, int> CountOccurrencesOfChar(string input)
+        private static Dictionary<char, int> CountOccurrencesOfChar(string input)
         {
             int numberOfOccurencies = 1;
-            string character = string.Empty;
-            Dictionary<string, int> charOccurrences = new Dictionary<string, int>();
+            Dictionary<char, int> charOccurrences = new Dictionary<char, int>();
 
             foreach (char c in input)
             {
-                character = c.ToString();
                 numberOfOccurencies = 1;
 
-                if (charOccurrences.ContainsKey(character))
+                if (charOccurrences.ContainsKey(c))
                 {
-                    numberOfOccurencies = charOccurrences[character];
+                    numberOfOccurencies = charOccurrences[c];
                     numberOfOccurencies++;
-                    charOccurrences[character] = numberOfOccurencies;
+                    charOccurrences[c] = numberOfOccurencies;
                 }
                 else
                 {
-                    charOccurrences.Add(character, numberOfOccurencies);
+                    charOccurrences.Add(c, numberOfOccurencies);
                 }
             }
 
@@ -80,7 +78,7 @@ namespace PalindromicPermutation
         /// <param name="occurencesOfChar">a set of characters and their occurences for the input string</param>
         /// <param name="inputlenght">lenght of the input string</param>
         /// <returns>true if the input is palindrome, false otherwise</returns>
-        private static bool IsPalindrome(Dictionary<string, int> occurencesOfChar, int inputlenght)
+        private static bool IsPalindrome(Dictionary<char, int> occurencesOfChar, int inputlenght)
         {
             if (inputlenght % 2 == 0)
             {
